@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Abdul Hannan 👋
 
-<!--
-**A-Hannan-code/A-Hannan-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Python Enthusiast | Beginner Developer | Future Data Scientist**  
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python, problem-solving, and mini projects**  
+- 🎯 Goal: Master Python and move into **Data Science & AI**  
+- 📂 Sharing my coding journey on GitHub  
+- ⚡ Fun fact: I love turning ideas into projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+- Python 🐍
+- GitHub 🌐 (version control & projects)
+- VsCode 👩‍💻
+- Exploring Data Science 📊
+
+---
+
+### 📌 Featured Projects
+- 🎮 Number Guessing Game  
+- 🌡️ Temperature Converter  
+- 🗂️ More Python mini-projects coming soon  
+
+---
+
+### 🌍 Connect with Me
+- GitHub: [A-Hannan-code](https://github.com/A-Hannan-code)
