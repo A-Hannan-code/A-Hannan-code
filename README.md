@@ -35,7 +35,7 @@
 - [Temperature Converter](https://github.com/A-Hannan-code/python-mini-projects/blob/main/temp_converter.py) — Convert between Celsius and Fahrenheit  
 
 ### 📊 Data Science Projects  
-- [Coders of Delhi](#) — Data cleaning and structuring project using just pure python  
+- [Coders of Delhi](https://github.com/A-Hannan-code/my-data-science-journey/tree/main/coders-of-delhi) — Data cleaning and structuring project using just pure python  
 *(More Data Science projects coming as I progress: NumPy, Pandas, ML, etc.)*  
 
 ---
