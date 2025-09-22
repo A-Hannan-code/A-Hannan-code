@@ -14,14 +14,15 @@
 - ✅ Conda Environment Setup  
 - ✅ Python Refresher  
 - ✅ Project: Coders of Delhi  
-- 🔄 Currently Learning: NumPy (arrays, indexing & slicing)  
+- ✅ NumPy (arrays, indexing & slicing)  
+- 🔄 Currently Learning: Pandas  
 
 ---
 
 ## 🛠 Skills (So Far)  
 - **Programming:** Python (basics, loops, functions, data structures)  
-- **Tools:** Git & GitHub, JupyterLab, VSCode  
-- **Currently Exploring:** NumPy  
+- **Tools:** GitHub, JupyterLab, VSCode  
+- **Currently Exploring:** Pandas  
 
 ---
 
