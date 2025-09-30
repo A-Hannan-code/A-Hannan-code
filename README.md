@@ -14,8 +14,9 @@
 - ✅ Conda Environment Setup  
 - ✅ Python Refresher  
 - ✅ Project: Coders of Delhi  
-- ✅ NumPy (arrays, indexing & slicing)  
-- 🔄 Currently Learning: Pandas  
+- ✅ NumPy (arrays, indexing & slicing)
+- ✅ Pandas (Data Analysis)  
+- 🔄 Currently Learning: Matplotlib & Seaborn for (Data visualization)  
 
 ---
 
