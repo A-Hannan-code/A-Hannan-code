@@ -37,7 +37,8 @@
 - [Temperature Converter](https://github.com/A-Hannan-code/python-mini-projects/blob/main/temp_converter.py) — Convert between Celsius and Fahrenheit  
 
 ### 📊 Data Science Projects  
-- [Coders of Delhi](https://github.com/A-Hannan-code/my-data-science-journey/tree/main/coders-of-delhi) — Data cleaning and structuring project using just pure python  
+- [Coders of Delhi](https://github.com/A-Hannan-code/my-data-science-journey/tree/main/Projects/coders_of_delhi) — Data cleaning and structuring project using just pure python  
+- [Students Performance Analyzer](https://github.com/A-Hannan-code/my-data-science-journey/tree/main/Projects/students_performance_analyzer) — Student Analyzer project cleans messy student data and analyzes performance to find toppers, failures, and subject insights.  
 *(More Data Science projects coming as I progress: NumPy, Pandas, ML, etc.)*  
 
 ---
