@@ -15,15 +15,16 @@
 - ✅ Python Refresher  
 - ✅ Project: Coders of Delhi  
 - ✅ NumPy (arrays, indexing & slicing)
-- ✅ Pandas (Data Analysis)  
-- 🔄 Currently Learning: Matplotlib & Seaborn for (Data visualization)  
+- ✅ Pandas (Data Analysis)
+- ✅ Matplotlib & Seaborn for (Data visualization)
+- 🔄 Currently Learning: Data Collection Techniques  
 
 ---
 
 ## 🛠 Skills (So Far)  
 - **Programming:** Python (basics, loops, functions, data structures)  
 - **Tools:** GitHub, JupyterLab, VSCode  
-- **Currently Exploring:** Pandas  
+- **Currently Exploring:** Data Collection Techniques  
 
 ---
 
