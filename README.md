@@ -17,7 +17,8 @@
 - ✅ NumPy (arrays, indexing & slicing)
 - ✅ Pandas (Data Analysis)
 - ✅ Matplotlib & Seaborn for (Data visualization)
-- 🔄 Currently Learning: Data Collection Techniques  
+- ✅ Data Collection Techniques
+- 🔄 Currently Learning: SQL for Data Science  
 
 ---
 
