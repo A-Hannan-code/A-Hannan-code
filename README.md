@@ -43,6 +43,9 @@
 - [Students Performance Analyzer](https://github.com/A-Hannan-code/my-data-science-journey/tree/main/Projects/students_performance_analyzer) — Student Analyzer project cleans messy student data and analyzes performance to find toppers, failures, and subject insights.
   
 - [Sales Data Analyzer](https://github.com/A-Hannan-code/my-data-science-journey/tree/main/Projects/sales_data_cleaner) — Sales Data Analyzer project cleans messy sales data.  
+*(More Data Science projects coming as I progress: NumPy, Pandas, ML, etc.)*
+
+- [Books to Scrape Analysis]([https://github.com/A-Hannan-code/my-data-science-journey/tree/main/Projects/sales_data_cleaner](https://github.com/A-Hannan-code/my-data-science-journey/tree/main/Projects/books-to-scrape-analysis)) — Scrapes Data from local books website for analysis.  
 *(More Data Science projects coming as I progress: NumPy, Pandas, ML, etc.)*  
 
 ---
