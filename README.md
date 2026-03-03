@@ -18,7 +18,8 @@
 - ✅ Pandas (Data Analysis)
 - ✅ Matplotlib & Seaborn for (Data visualization)
 - ✅ Data Collection Techniques
-- 🔄 Currently Learning: SQL for Data Science  
+- ✅ SQL for Data Science
+- 🔄 Currently Learning: Probability for Data Science  
 
 ---
 
