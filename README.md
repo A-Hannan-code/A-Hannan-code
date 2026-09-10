@@ -53,7 +53,7 @@ A RAG-based AI teaching assistant built from 40 HTML, CSS, and Bootstrap course 
 
 Technologies: Whisper • BGE-M3 • Llama 3.2 3B • Semantic Search • Cosine Similarity
 
-→ View Project: (https://github.com/A-Hannan-code/web-dev-rag-assistant)
+→ View Project: [RAG-ASSISTANT](https://github.com/A-Hannan-code/web-dev-rag-assistant)
 
 More projects will be added as I progress.
 
