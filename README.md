@@ -82,7 +82,10 @@ More projects will be added as I progress.
 
 ### 🎯 Goal
 
-To become a skilled **Data Scientist** by continuously learning, building real-world projects, and developing strong problem-solving skills.
+### 🎯 Goal
+
+To become a skilled **Data Scientist** by continuously learning, building real-world projects, and developing strong problem-solving skills through practical experience.
+
 
 ### 📫 Contact
 
