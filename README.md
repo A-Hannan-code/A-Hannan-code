@@ -50,30 +50,35 @@ I learn by building projects, experimenting with different tools, and strengthen
 * Google Colab
 * Streamlit
 
+
 ### 🔭 Currently
 
 * Building practical Data Science and Machine Learning projects
-* Developing RAG-based AI applications
-* Strengthening my understanding through hands-on practice
-* Learning model deployment and AI application development
+* Strengthening my problem-solving and technical skills through hands-on practice
+* Building and deploying AI applications using RAG and LLMs
+* Learning how to turn Data Science and Machine Learning knowledge into practical applications
+
 
 ### 📂 Projects
 
-#### 🔹 Data Science RAG Assistant
+🔹 **Data Science RAG Assistant**
 
-A RAG-based AI assistant that answers Data Science questions using a knowledge base built from course materials.
+A RAG-based AI assistant that answers Data Science questions using a knowledge base built from Data Science documents.
 
-**Technologies:** Python • Semantic Chunking • Sentence Transformers • FAISS • Gemini • Streamlit
+Technologies: Python • Semantic Chunking • Sentence Transformers • FAISS • Gemini • Streamlit
 
-→ View Project: [Data Science RAG Assistant](https://github.com/A-Hannan-code/data-science-rag-assistant)
+→ View Project: [DATA-SCIENCE-RAG-ASSISTANT](https://github.com/A-Hannan-code/data-science-rag-assistant)
 
-#### 🔹 Web Development RAG Assistant
+🔹 **Web Development RAG Assistant**
 
-A RAG-based AI teaching assistant built from **40 HTML, CSS, and Bootstrap course videos**.
+A RAG-based AI teaching assistant built from 40 HTML, CSS, and Bootstrap course videos.
 
-**Technologies:** Whisper • BGE-M3 • Llama 3.2 3B • Semantic Search • Cosine Similarity
+Technologies: Whisper • BGE-M3 • Llama 3.2 3B • Semantic Search • Cosine Similarity
 
-→ View Project: [Web Development RAG Assistant](https://github.com/A-Hannan-code/web-dev-rag-assistant)
+→ View Project: [RAG-ASSISTANT](https://github.com/A-Hannan-code/web-dev-rag-assistant)
+
+More projects will be added as I progress.
+
 
 ### 🎯 Goal
 
